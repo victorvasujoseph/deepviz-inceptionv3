@@ -22,8 +22,8 @@ Feature maps in a convolutional neural network represent how filters respond to 
 
 The script produces a plot with:
 
-Original Image: Displayed at the top with the top three predictions and their confidence scores.
-Feature Maps: Grids of feature maps extracted from each specified convolutional layer (e.g., block1_conv2, block2_conv2, etc.) in VGG16.
+- Original Image: Displayed at the top with the top three predictions and their confidence scores.
+- Feature Maps: Grids of feature maps extracted from each specified convolutional layer (e.g., block1_conv2, block2_conv2, etc.) in VGG16.
 
 ## Example Output
 
