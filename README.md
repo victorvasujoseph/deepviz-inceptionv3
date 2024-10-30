@@ -27,15 +27,15 @@ The script produces a plot with:
 
 ## Example Output
 
-Original Image with Predictions
+### Original Image with Predictions
 
 The model’s top three predictions for the input image (e.g., a dog photo) are displayed with confidence scores:
 
-Golden Retriever (32.97%)
-Labrador Retriever (12.42%)
-Toy Poodle (10.90%)
+- Golden Retriever (32.97%)
+- Labrador Retriever (12.42%)
+- Toy Poodle (10.90%)
 
-Feature Maps from VGG16 Layers
+### Feature Maps from VGG16 Layers
 Feature maps for each selected layer, showing how the model detects various patterns at different depths. These include basic shapes, textures, and high-level details as the layers progress.
 
 
