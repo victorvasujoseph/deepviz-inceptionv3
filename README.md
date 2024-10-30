@@ -35,6 +35,8 @@ The model’s top three predictions for the input image (e.g., a dog photo) are 
 - Labrador Retriever (12.42%)
 - Toy Poodle (10.90%)
 
+![Example Image](result/1.png)
+
 ### Feature Maps from VGG16 Layers
 Feature maps for each selected layer, showing how the model detects various patterns at different depths. These include basic shapes, textures, and high-level details as the layers progress.
 
