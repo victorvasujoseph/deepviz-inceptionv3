@@ -18,11 +18,6 @@ Feature maps in a convolutional neural network represent how filters respond to 
 - **NumPy**
 - **Matplotlib**
 
-Install requirements using:
-```bash
-pip install tensorflow numpy matplotlib
-
-
 ## Results
 
 The script produces a plot with:
