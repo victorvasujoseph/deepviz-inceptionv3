@@ -45,9 +45,9 @@ Feature maps for each selected layer, showing how the model detects various patt
 
 -  Layer Analysis: The feature maps show that:
 
-      Early Layers (e.g., block1_conv2): Capture basic shapes and edges, which are fundamental patterns in the image.
-      Middle Layers (e.g., block2_conv2, block3_conv3): Capture textures and more complex shapes, focusing on specific parts of the image.
-      Deeper Layers (e.g., block4_conv3, block5_conv3): Identify high-level, abstract features that contribute to object classification. These layers focus on refined patterns, highlighting parts relevant to breed identification.
+      - Early Layers (e.g., block1_conv2): Capture basic shapes and edges, which are fundamental patterns in the image.
+      - Middle Layers (e.g., block2_conv2, block3_conv3): Capture textures and more complex shapes, focusing on specific parts of the image.
+      - Deeper Layers (e.g., block4_conv3, block5_conv3): Identify high-level, abstract features that contribute to object classification. These layers focus on refined patterns, highlighting parts relevant to breed identification.
 
 -  Interpretability: This visualization of feature maps helps in understanding how VGG16 builds its understanding of an image from simple edges and textures to high-level abstract representations, which are essential for classification tasks. This step-by-step visualization confirms that each layer progressively refines the image’s detail, which ultimately helps in making accurate predictions.
 
