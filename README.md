@@ -40,7 +40,7 @@ The model’s top three predictions for the input image (e.g., a dog photo) are 
 ### Feature Maps from VGG16 Layers
 Feature maps for each selected layer, showing how the model detects various patterns at different depths. These include basic shapes, textures, and high-level details as the layers progress.
 
-![Example Image](result/2.png)
+![Example Image](result/3.png)
 
 ## Conclusions
 
